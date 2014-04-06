@@ -11,6 +11,14 @@ Para um correto funcionamento, este repositório deve estar localizado no diret�
 
 ## Revisões ##
 
+* **system-v0.2:** Escreve constantes string.
+Requisitos:
+
+```
+LOSKernel.002
+LoadLOS.014-1
+```
+
 * **system-v0.1:** Kernel 32 bits, ASM + PAS => ELF => BIN.
 Requisitos:
 
