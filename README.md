@@ -11,6 +11,14 @@ Para um correto funcionamento, este repositório deve estar localizado no diret�
 
 ## Revisões ##
 
+* **system-v0.3:** Escreve diversos tipos.
+Requisitos:
+
+```
+LOSKernel.003
+LoadLOS.014-1
+```
+
 * **system-v0.2:** Escreve constantes string.
 Requisitos:
 
