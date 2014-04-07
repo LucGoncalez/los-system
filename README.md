@@ -11,6 +11,20 @@ Para um correto funcionamento, este repositório deve estar localizado no diret�
 
 ## Revisões ##
 
+* **Bugfix-2013-0614:** Alterou as seguintes versões:
+
+ * **system-v0.0.1**
+ * **system-v0.1.1**
+ * **system-v0.2.1**
+ * **system-v0.3.1**
+
+Requisitos:
+
+```
+LOSKernel.003-1
+LoadLOS.014-2
+```
+
 * **system-v0.3:** Escreve diversos tipos.
 Requisitos:
 
