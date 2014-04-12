@@ -11,6 +11,14 @@ Para um correto funcionamento, este repositório deve estar localizado no diret�
 
 ## Revisões ##
 
+* **system-v0.4:** Biblioteca de terminal implementada.
+Requisitos:
+
+```
+LOSKernel.004
+LoadLOS.014-2
+```
+
 * **Bugfix-2013-0614:** Alterou as seguintes versões:
 
  * **system-v0.0.1**
