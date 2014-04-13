@@ -11,6 +11,14 @@ Para um correto funcionamento, este repositório deve estar localizado no diret�
 
 ## Revisões ##
 
+* **system-v0.5:** Mudança nas tabelas de boot.
+Requisitos:
+
+```
+LOSKernel.005
+LoadLOS.015
+```
+
 * **system-v0.4:** Biblioteca de terminal implementada.
 Requisitos:
 
