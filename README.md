@@ -1,5 +1,5 @@
-# SystemLOS #
-**Repositório principal do Projeto LOS (para o sistema completo)**
+# LOS-System #
+**Repositório de "sistema completo" do Projeto LOS**
 
 Este repositório será usado para a implementação do sistema completo.
 
@@ -15,7 +15,7 @@ Para um correto funcionamento, este repositório deve estar localizado no diret�
 Requisitos:
 
 ```
-LOSKernel.005
+LOS-Kernel.005
 LoadLOS.015
 ```
 
@@ -23,7 +23,7 @@ LoadLOS.015
 Requisitos:
 
 ```
-LOSKernel.004
+LOS-Kernel.004
 LoadLOS.014-2
 ```
 
@@ -37,7 +37,7 @@ LoadLOS.014-2
 Requisitos:
 
 ```
-LOSKernel.003-1
+LOS-Kernel.003-1
 LoadLOS.014-2
 ```
 
@@ -45,7 +45,7 @@ LoadLOS.014-2
 Requisitos:
 
 ```
-LOSKernel.003
+LOS-Kernel.003
 LoadLOS.014-1
 ```
 
@@ -53,7 +53,7 @@ LoadLOS.014-1
 Requisitos:
 
 ```
-LOSKernel.002
+LOS-Kernel.002
 LoadLOS.014-1
 ```
 
@@ -61,7 +61,7 @@ LoadLOS.014-1
 Requisitos:
 
 ```
-LOSKernel.001
+LOS-Kernel.001
 LoadLOS.014-1
 ```
 
@@ -69,6 +69,6 @@ LoadLOS.014-1
 Requisitos:
 
 ```
-LOSKernel.000
+LOS-Kernel.000
 LoadLOS.014-1
 ```
