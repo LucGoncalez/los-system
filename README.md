@@ -11,6 +11,14 @@ Para um correto funcionamento, este repositório deve estar localizado no diret�
 
 ## Revisões ##
 
+* **system-v0.6.1:** Mudança em ABORT.
+Requisitos:
+
+```
+LOS-Kernel.006
+LoadLOS.015
+```
+
 * **system-v0.5:** Mudança nas tabelas de boot.
 Requisitos:
 
